@@ -1,0 +1,15 @@
+{
+  "name": "node-red-grove-gps",
+  "version": "1.0.0",
+  "description": "node-red grovePi+ gps flow",
+  "main": "grove-gps.js",
+  "dependencies": {
+    "node-nmea": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nishimurakaori",
+  "license": "ISC"
+}
